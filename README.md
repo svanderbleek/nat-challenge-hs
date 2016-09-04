@@ -1,7 +1,7 @@
 ## Firewall
 
 1. sourceHost -> IP packet -> destinationHost
-- sourceHost IP:port -> externalHost IP:port
+- sH IP:port -> externalHost IP:port
 - port range 1025-5535
 - no conflict assignment
 - repeated sH -> eH use same map
