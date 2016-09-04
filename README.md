@@ -1,5 +1,3 @@
-status: jumbled notes
-
 ## Firewall
 
 1. sourceHost -> IP packet -> destinationHost
