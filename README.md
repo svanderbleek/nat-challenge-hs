@@ -2,7 +2,7 @@ status: jumbled notes
 
 ## Firewall
 
-1 sourceHost -> IP packet -> destinationHost
+1. sourceHost -> IP packet -> destinationHost
 - sourceHost IP:port -> externalHost IP:port
 - port range 1025-5535
 - no conflict assignment
