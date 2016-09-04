@@ -6,7 +6,7 @@
 - no conflict assignment
 - repeated sH -> eH use same map
 - sent to eH w/ firewall public IP
-- eH --> interalHost Firewall public IP:port
+- eH -> interalHost Firewall public IP:port
 - destinationHost IP port in 2 and 4
 - to pick sH
 - ignore traffic from sH to public
